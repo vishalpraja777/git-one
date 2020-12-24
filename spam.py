@@ -7,3 +7,4 @@ for word in f:
     pyautogui.press("enter")
     print('Done')
     print('Testing branch')
+    print('Testing 1')
